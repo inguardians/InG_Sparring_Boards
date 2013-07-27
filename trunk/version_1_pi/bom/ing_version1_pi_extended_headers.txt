@@ -1,0 +1,11 @@
+Extended Headers can be found on Adafruit:
+
+http://www.adafruit.com/products/1112
+
+
+Rubber bumper feet to help keep sparring board and 
+Raspberry Pi separate.
+
+http://www.adafruit.com/products/550
+
+Last Date Checked: 20130727
